@@ -1,5 +1,3 @@
-# ml-infiltration-prediction
-This project integrates experimental hydrology with machine learning to predict infiltration-rate reduction under varying TSS and LA-PAM treatments across multiple soil types.
 # Machine Learning-Based Prediction of Infiltration-Rate Reduction under TSS and LA-PAM Treatments
 
 > **Note:** This paper has not yet been published. The repository contains the manuscript, experimental dataset, and machine learning code developed as part of this study.
